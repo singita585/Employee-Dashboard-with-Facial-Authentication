@@ -11,8 +11,8 @@ Getting Started
 To replicate or run this project locally, follow these steps:
 1. Clone the Repository
 
-git clone https://github.com/your-username/employee-dashboard.git
-cd employee-dashboard
+git clone https://github.com/singita585/Employee-Dashboard-with-Facial-Authentication.git
+cd Employee-Dashboard-with-Facial-Authentication
 
 2. Install Dependencies
 npm install
